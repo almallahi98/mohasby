@@ -13,7 +13,7 @@ function App() {
         <div className=' space-y-10'>
           <p>انتظروا محاسبي بحله الجديدة</p>
           <div className='flex justify-center gap-2 px-2'>
-            <button onClick={() => window.open('https://wa.me/00966531342444', '_blank')}
+            <button onClick={() => window.open('https://wa.me/966531342444', '_blank')}
               className='bg-[#1E3778] py-2 px-6 rounded text-[#ffffff]'
             >الاشتراك في الخدمة</button>
 
